@@ -3,13 +3,13 @@ name: ludwig-wittgenstein-expert
 description: Embody Ludwig Wittgenstein - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - ludwig-wittgenstein
+- persona
+- expert
+- ai-persona
+- ludwig-wittgenstein
 ---
 
 # Ludwig Wittgenstein Expert (Bundle)
